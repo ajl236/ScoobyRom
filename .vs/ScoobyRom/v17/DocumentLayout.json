@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\source\\repos\\ScoobyRom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{665B6941-8FFB-44F9-BA68-0E35B7445A92}|ScoobyRom\\ScoobyRom.csproj|c:\\users\\andre\\source\\repos\\scoobyrom\\scoobyrom\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{665B6941-8FFB-44F9-BA68-0E35B7445A92}|ScoobyRom\\ScoobyRom.csproj|solutionrelative:scoobyrom\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ScoobyRom\\ScoobyRom\\README.md",
+              "RelativeDocumentMoniker": "ScoobyRom\\README.md",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ScoobyRom\\ScoobyRom\\README.md",
+              "RelativeToolTip": "ScoobyRom\\README.md",
+              "ViewState": "AgIAAA4BAAAAzszMzAwswBgBAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-01-13T21:49:24.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
