@@ -3,6 +3,50 @@
   "WorkspaceRootPath": "C:\\Users\\andre\\source\\repos\\ScoobyRom\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{665B6941-8FFB-44F9-BA68-0E35B7445A92}|ScoobyRom\\ScoobyRom.csproj|c:\\users\\andre\\source\\repos\\scoobyrom\\scoobyrom\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665B6941-8FFB-44F9-BA68-0E35B7445A92}|ScoobyRom\\ScoobyRom.csproj|solutionrelative:scoobyrom\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA950E69-7715-4732-AAF2-DB1D56816858}|LibScoobyRom\\LibScoobyRom.csproj|c:\\users\\andre\\source\\repos\\scoobyrom\\libscoobyrom\\todo.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{FA950E69-7715-4732-AAF2-DB1D56816858}|LibScoobyRom\\LibScoobyRom.csproj|solutionrelative:libscoobyrom\\todo.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA950E69-7715-4732-AAF2-DB1D56816858}|LibScoobyRom\\LibScoobyRom.csproj|c:\\users\\andre\\source\\repos\\scoobyrom\\libscoobyrom\\romtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA950E69-7715-4732-AAF2-DB1D56816858}|LibScoobyRom\\LibScoobyRom.csproj|solutionrelative:libscoobyrom\\romtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA950E69-7715-4732-AAF2-DB1D56816858}|LibScoobyRom\\LibScoobyRom.csproj|c:\\users\\andre\\source\\repos\\scoobyrom\\libscoobyrom\\reflashcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA950E69-7715-4732-AAF2-DB1D56816858}|LibScoobyRom\\LibScoobyRom.csproj|solutionrelative:libscoobyrom\\reflashcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA950E69-7715-4732-AAF2-DB1D56816858}|LibScoobyRom\\LibScoobyRom.csproj|c:\\users\\andre\\source\\repos\\scoobyrom\\libscoobyrom\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA950E69-7715-4732-AAF2-DB1D56816858}|LibScoobyRom\\LibScoobyRom.csproj|solutionrelative:libscoobyrom\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA950E69-7715-4732-AAF2-DB1D56816858}|LibScoobyRom\\LibScoobyRom.csproj|c:\\users\\andre\\source\\repos\\scoobyrom\\libscoobyrom\\util\\binaryhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA950E69-7715-4732-AAF2-DB1D56816858}|LibScoobyRom\\LibScoobyRom.csproj|solutionrelative:libscoobyrom\\util\\binaryhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA950E69-7715-4732-AAF2-DB1D56816858}|LibScoobyRom\\LibScoobyRom.csproj|c:\\users\\andre\\source\\repos\\scoobyrom\\libscoobyrom\\tables\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA950E69-7715-4732-AAF2-DB1D56816858}|LibScoobyRom\\LibScoobyRom.csproj|solutionrelative:libscoobyrom\\tables\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665B6941-8FFB-44F9-BA68-0E35B7445A92}|ScoobyRom\\ScoobyRom.csproj|c:\\users\\andre\\source\\repos\\scoobyrom\\scoobyrom\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665B6941-8FFB-44F9-BA68-0E35B7445A92}|ScoobyRom\\ScoobyRom.csproj|solutionrelative:scoobyrom\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665B6941-8FFB-44F9-BA68-0E35B7445A92}|ScoobyRom\\ScoobyRom.csproj|c:\\users\\andre\\source\\repos\\scoobyrom\\scoobyrom\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665B6941-8FFB-44F9-BA68-0E35B7445A92}|ScoobyRom\\ScoobyRom.csproj|solutionrelative:scoobyrom\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665B6941-8FFB-44F9-BA68-0E35B7445A92}|ScoobyRom\\ScoobyRom.csproj|c:\\users\\andre\\source\\repos\\scoobyrom\\scoobyrom\\gnuplot_table2d.plt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{665B6941-8FFB-44F9-BA68-0E35B7445A92}|ScoobyRom\\ScoobyRom.csproj|solutionrelative:scoobyrom\\gnuplot_table2d.plt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665B6941-8FFB-44F9-BA68-0E35B7445A92}|ScoobyRom\\ScoobyRom.csproj|c:\\users\\andre\\source\\repos\\scoobyrom\\scoobyrom\\development.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{665B6941-8FFB-44F9-BA68-0E35B7445A92}|ScoobyRom\\ScoobyRom.csproj|solutionrelative:scoobyrom\\development.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{665B6941-8FFB-44F9-BA68-0E35B7445A92}|ScoobyRom\\ScoobyRom.csproj|c:\\users\\andre\\source\\repos\\scoobyrom\\scoobyrom\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{665B6941-8FFB-44F9-BA68-0E35B7445A92}|ScoobyRom\\ScoobyRom.csproj|solutionrelative:scoobyrom\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
@@ -14,21 +58,164 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TODO.md",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ScoobyRom\\LibScoobyRom\\TODO.md",
+              "RelativeDocumentMoniker": "LibScoobyRom\\TODO.md",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ScoobyRom\\LibScoobyRom\\TODO.md",
+              "RelativeToolTip": "LibScoobyRom\\TODO.md",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-01-14T00:05:12.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RomType.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ScoobyRom\\LibScoobyRom\\RomType.cs",
+              "RelativeDocumentMoniker": "LibScoobyRom\\RomType.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ScoobyRom\\LibScoobyRom\\RomType.cs",
+              "RelativeToolTip": "LibScoobyRom\\RomType.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T00:04:54.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReflashCounter.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ScoobyRom\\LibScoobyRom\\ReflashCounter.cs",
+              "RelativeDocumentMoniker": "LibScoobyRom\\ReflashCounter.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ScoobyRom\\LibScoobyRom\\ReflashCounter.cs",
+              "RelativeToolTip": "LibScoobyRom\\ReflashCounter.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T00:04:37.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ScoobyRom\\LibScoobyRom\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "LibScoobyRom\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ScoobyRom\\LibScoobyRom\\AssemblyInfo.cs",
+              "RelativeToolTip": "LibScoobyRom\\AssemblyInfo.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T00:04:31.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BinaryHelper.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ScoobyRom\\LibScoobyRom\\Util\\BinaryHelper.cs",
+              "RelativeDocumentMoniker": "LibScoobyRom\\Util\\BinaryHelper.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ScoobyRom\\LibScoobyRom\\Util\\BinaryHelper.cs",
+              "RelativeToolTip": "LibScoobyRom\\Util\\BinaryHelper.cs",
+              "ViewState": "AgIAAGYAAAAAMzMzMzMnwG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T00:04:11.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Table.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ScoobyRom\\LibScoobyRom\\Tables\\Table.cs",
+              "RelativeDocumentMoniker": "LibScoobyRom\\Tables\\Table.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ScoobyRom\\LibScoobyRom\\Tables\\Table.cs",
+              "RelativeToolTip": "LibScoobyRom\\Tables\\Table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T00:01:08.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ScoobyRom\\ScoobyRom\\MainWindow.cs",
+              "RelativeDocumentMoniker": "ScoobyRom\\MainWindow.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ScoobyRom\\ScoobyRom\\MainWindow.cs",
+              "RelativeToolTip": "ScoobyRom\\MainWindow.cs",
+              "ViewState": "AgIAAKQAAAAA0MzMzMwMwKgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T23:59:45.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ScoobyRom\\ScoobyRom\\Main.cs",
+              "RelativeDocumentMoniker": "ScoobyRom\\Main.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ScoobyRom\\ScoobyRom\\Main.cs",
+              "RelativeToolTip": "ScoobyRom\\Main.cs",
+              "ViewState": "AgIAAGkAAAAAZmZmZmYmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T23:59:32.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "gnuplot_Table2D.plt",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ScoobyRom\\ScoobyRom\\gnuplot_Table2D.plt",
+              "RelativeDocumentMoniker": "ScoobyRom\\gnuplot_Table2D.plt",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ScoobyRom\\ScoobyRom\\gnuplot_Table2D.plt",
+              "RelativeToolTip": "ScoobyRom\\gnuplot_Table2D.plt",
+              "ViewState": "AgIAACcAAAAAMzMzMzMbwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-13T23:59:20.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ScoobyRom\\ScoobyRom\\Data.cs",
+              "RelativeDocumentMoniker": "ScoobyRom\\Data.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ScoobyRom\\ScoobyRom\\Data.cs",
+              "RelativeToolTip": "ScoobyRom\\Data.cs",
+              "ViewState": "AgIAAD4BAAAAAAAAAEApwH0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T23:56:28.505Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
+              "Title": "DEVELOPMENT.md",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ScoobyRom\\ScoobyRom\\DEVELOPMENT.md",
+              "RelativeDocumentMoniker": "ScoobyRom\\DEVELOPMENT.md",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\ScoobyRom\\ScoobyRom\\DEVELOPMENT.md",
+              "RelativeToolTip": "ScoobyRom\\DEVELOPMENT.md",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-01-13T23:58:52.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\ScoobyRom\\ScoobyRom\\README.md",
               "RelativeDocumentMoniker": "ScoobyRom\\README.md",
               "ToolTip": "C:\\Users\\andre\\source\\repos\\ScoobyRom\\ScoobyRom\\README.md",
               "RelativeToolTip": "ScoobyRom\\README.md",
-              "ViewState": "AgIAAA4BAAAAzszMzAwswBgBAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAAANMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-01-13T21:49:24.366Z",
               "EditorCaption": ""

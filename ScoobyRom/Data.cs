@@ -105,7 +105,7 @@ namespace ScoobyRom
 
 		public IList<Table2D> List2DSelected ()
 		{
-			return list2D.Where (t => t.Selected).AsParallel ().ToList ();
+			return list2D.Where(t => t.Selected).AsParallel().ToList();
 		}
 
 		public IList<Table3D> List3DSelected ()
@@ -249,7 +249,7 @@ namespace ScoobyRom
 			IList<Table2D> list2D;
 			IList<Table3D> list3D;
 			GetChosenTables (choice, out list2D, out list3D);
-			DataFile.RomRaiderEcuDefXml.WriteRRXmlFile (path, romMetadata.XElement, list2D, list3D);
+			DataFile.RomRaiderEcuDefXml.WriteRRXmlFile(path, romMetadata.XElement, list2D, list3D);
 		}
 
 		public void SaveAsTunerProXdf (string path, SelectedChoice choice)
@@ -258,8 +258,8 @@ namespace ScoobyRom
 			IList<Table3D> list3D;
 			GetChosenTables (choice, out list2D, out list3D);
 
-			var categories = GetCategoriesDictionary (GetCategoriesForExport (list2D, list3D));
-			DataFile.TunerProXdf.WriteXdfFile (path, romMetadata, categories, list2D, list3D);
+			var categories = GetCategoriesDictionary(GetCategoriesForExport(list2D, list3D));
+			DataFile.TunerProXdf.WriteXdfFile(path, romMetadata, categories, list2D, list3D);
 		}
 
 		public void SaveAsCsv (string path)
