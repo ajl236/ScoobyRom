@@ -1,3 +1,17 @@
+# Build in 2025
+
+To build this excellent project from the Diesel Crew in 2025 on a fresh install of Windows 11 64-bit;
+
+1.	Install Mono 32-bit (inc. GTK) from Download - Stable | Mono the file name should be mono-6.12.0.206-gtksharp-2.12.45-win32-0.msi
+2.	Install Gtk# - GtkSharp 2.12.45 from Download - Stable | Mono (mono-project.com) 
+3.	Clone aalesv/ScoobyRom: This is fork of original ScoobyRom software. (github.com) 
+4.	Upgrade the two projects in the solution to Framework to 4.8 at the time of writing 
+5.	Remove missing file references to COPYING.txt in both Visual Studio projects.
+6.	Build.
+
+Download Mono and Gtk at https://www.mono-project.com/download/stable/#download-win.
+
+
 # ScoobyRom
 
 ![](ScoobyRom/Images/AppIcon.png)
@@ -21,6 +35,8 @@
 3.	[Further Details](#details)
 
 ---
+
+
 
 ## <a name="purpose"></a> 1) Purpose
 
